@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>manejo de texto</h1>
+    <h1>Titulo</h1>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eveniet ut rerum minus, dolorem beatae similique earum eum omnis? Reiciendis similique temporibus placeat amet beatae suscipit ex, inventore maxime ea dolor!    </p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Velit dicta tempore, et alias deleniti quaerat non exercitationem qui facilis autem quis placeat officiis architecto hic soluta atque voluptatem. Officia, doloribus?</p>
+    <h2>Titulo</h2>
+    <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam iure inventore nostrum quasi temporibus a quia mollitia. Ut soluta dolorum error aspernatur, atque repellat inventore et tempore, sint expedita nostrum?</div>
+    <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet amet esse temporibus eos soluta velit unde vel expedita corporis. Nihil modi consectetur quia deleniti qui nostrum, ullam eveniet harum minus?</div>
+    <h3>Titulo</h3>
+    <h4>Titulo</h4>
+    <h5>Titulo</h5>
+    <h6>Titulo</h6>
+    <h1>br</h1>
+    <div>HOLA MUNDO</div>
+    <br>
+    <br>
+    <div>ADIOS MUNDO</div>
+    <p>Mozilla;<br>
+        331 E. Evelyn Avenue;<br>
+        Mountain View, CA;<br>
+        94041;<br>
+        USA;<br>
+    </p>
+    <h1>
+        hr
+    </h1>
+    <p>ß1: The first rule of Fight Club is: You do not talk about Fight Club.</p>
+    <hr></hr>
+    <p>ß2: The second rule of Fight Club is: Always bring cupcakes.</p>
+
+    <div id="example-paragraphs">
+        <p>Fernstraﬂenbauprivatfinanzierungsgesetz</p>
+        <p>Fernstraﬂen<wbr>bau<wbr>privat<wbr>finanzierungs<wbr>gesetz</p>
+        <p>Fernstraﬂen&shy;bau&shy;privat&shy;finanzierungs&shy;gesetz</p>
+    </div>
+    <h1>sup</h1>
+    <p>5<sup>2</sup></p>
+    <p><var>a<sup>2</sup></var> + <var>b<sup>2</sup></var> = <var>c<sup>2</sup></var></p>
+    <p>La formula m·s famosa del mundo es: <br></p>
+    <p>E = mc<sup>2</sup></p>
+    <p>Formula Quimica de la CafeÌna: <br></p>
+    <p>C<sub>8</sub>H<sub>10</sub>N<sub>4</sub>O<sub>2</sub></p>
+</body>
+</html>
